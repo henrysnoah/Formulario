@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+label {
+    color: blackcolor: red;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+apartamento {
+    height: 400px;
+    width: 400px;
+    color: chartreuse;
+}
