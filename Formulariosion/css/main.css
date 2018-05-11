@@ -1,40 +1,12 @@
-body {
-    background: 
-    
-}
-
-h1 {
-    color: currentColor;
-    font-family: monospace;
-    font-size: 50px;
-    text-align: justify;
-}
-
-p {
-    font-family: verdana;
-    font-size: 20px;
-}
-
-label {
-    color: blackcolor: red;
-    font-family: fantasy;
-    font-size: 20px;
-}
-
-apartamento {
-    height: 400px;
-    width: 400px;
-    color: chartreuse;
-}
 html,body {
     height:100%;
 }
 
 header {
-        
+
     display:block;
     background:#286af0;
-    padding:0px 0px;
+    padding:10px 0px;
 }
 section {
     width: 79%;
@@ -56,7 +28,7 @@ aside {
 footer {
     position: relative;
     margin-top: -50px;
-    height: 40px; 
+    height: 40px;
     padding:5px 0px;
     clear: both;
     background: #286af0;
